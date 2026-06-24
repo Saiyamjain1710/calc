@@ -13,3 +13,11 @@ p = int(input("Enter p:"))
 q = int(input("Enter q:"))
 
 sub(p,q)
+
+def multi(x,y):
+    return x*y
+
+x = int(input("Enter x:"))
+y = int(input("Enter y:"))
+
+multi(x,y)
